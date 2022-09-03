@@ -9,7 +9,7 @@ app.use(cors());
 app.use(express.json());
 
 
-app.use('/user', userRoutes)
+app.use('/users', userRoutes)
 
 app.get('/',(req,res)=>{
     res.send('Hello Express')
