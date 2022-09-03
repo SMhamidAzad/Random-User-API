@@ -1,30 +1,34 @@
 [
     {
-        "Id": 1,
+        "id": 1,
         "gender": "Male",
         "name": "Rahim",
         "contact": "022121233333",
+        "address": "ctg",
         "photoUrl": "" 
     },
     {
-        "Id": 2,
+        "id": 2,
         "gender": "Female",
         "name": "Rahima",
         "contact": "022121233333",
+        "address": "Feni",
         "photoUrl": "" 
     },
     {
-        "Id": 3,
+        "id": 3,
         "gender": "Male",
         "name": "Kaiser",
         "contact": "022121233333",
+        "address": "Dhaka",
         "photoUrl": "" 
     },
     {
-        "Id": 4,
+        "id": 4,
         "gender": "Female",
         "name": "Rifat",
         "contact": "022121233333",
+        "address": "Comilla",
         "photoUrl": "" 
     }
 ]
